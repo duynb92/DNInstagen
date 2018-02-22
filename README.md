@@ -13,7 +13,9 @@ git clone https://github.com/duynb92/DNInstagen.git
 ```
 
 - Run `xcake make`
+
 ![](https://media.giphy.com/media/9Y5llWTY6upwH8wxSM/giphy.gif)
+
 - Continue with copying all the files and folders to your destination, **except** `Cakefile` cause it is no longer useful.
 - Congratulations! You have saved a lot of :alarm_clock: and :moneybag:
 
@@ -37,7 +39,7 @@ After modifying, save `Cakefile`, and run `xcake make` again.
 ## TODO
 
 - [ ] Real testing
-- [x] More editable configurations
+- [ ] More editable configurations
 - [ ] Convinience way after run `xcake make`
 
 ## License
