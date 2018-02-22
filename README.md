@@ -22,7 +22,7 @@ git clone https://github.com/duynb92/DNInstagen.git
 
 ## More to go
 
-Obviously all the configurations are stored and already defined in the `Cakefile`. Read more about `Cakefile` [here](https://github.com/jcampbell05/xcake/blob/master/docs/Cakefile.md).
+Obviously, all the configurations are stored and already defined in the `Cakefile`. Read more about `Cakefile` [here](https://github.com/jcampbell05/xcake/blob/master/docs/Cakefile.md).
 
 Below are some variables need to be changed for every project. They are both in `GLOBAL VARIABLES` section.
 
@@ -48,7 +48,7 @@ After modifying, save `Cakefile`, and run `xcake make` again.
 
 ## Buy me a coffee
 
-If this snippet really, i mean really, save your time.
+If this really useful.
 
 
  <a href="https://www.paypal.me/duynb" target="_blank">
