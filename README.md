@@ -38,7 +38,7 @@ After modifying, save `Cakefile`, and run `xcake make` again.
 
 ## TODO
 
-- [ ] Real testing
+- [x] Real testing
 - [ ] More editable configurations
 - [ ] Convinience way after run `xcake make`
 
